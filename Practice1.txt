@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-Voila!
-=======
-This is testing purpose.
+this is demo file for git 
+this should be awesome..
 
-It's working fine.
 
-Testing..
-<<<<<<< HEAD
->>>>>>> branchTestChild
-=======
+public static void maine(jo v ho ){
+}
 
-Testing1....
->>>>>>> branchTestChild
+
