@@ -1,3 +1,7 @@
 This is testing purpose.
 
+<<<<<<< HEAD
 Test added from local.
+=======
+It's working fine.
+>>>>>>> branchTestChild
