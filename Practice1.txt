@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Voila!
+=======
+This is testing purpose.
+
+It's working fine.
+
+Testing..
+>>>>>>> branchTestChild
