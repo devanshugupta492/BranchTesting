@@ -6,4 +6,9 @@ This is testing purpose.
 It's working fine.
 
 Testing..
+<<<<<<< HEAD
+>>>>>>> branchTestChild
+=======
+
+Testing1....
 >>>>>>> branchTestChild
