@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Added this new file. Amar Line1 Line3
+=======
+Added this new file. Amar Line1 Line2
+>>>>>>> Added Line2 from BranchTestChild
 =======
 Added this new file. Amar Line1 Line2
 >>>>>>> Added Line2 from BranchTestChild
