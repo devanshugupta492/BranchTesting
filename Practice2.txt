@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Added this new file. Amar Line1 Line3
 =======
 Added this new file. Amar Line1 Line2
@@ -16,6 +17,9 @@ Added this new file. Amar
 >>>>>>> Update Practice2.txt
 =======
 Added this new file. Amar Line1
+>>>>>>> Update Practice2.txt
+=======
+Added this new file. Amar
 >>>>>>> Update Practice2.txt
 =======
 Added this new file. Amar
