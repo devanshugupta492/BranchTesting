@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Added this new file. Amar Line1
-=======
-Added this new file. Amar Line2
->>>>>>> branchTestChild
+
