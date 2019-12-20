@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Added this new file. Amar Line1 Line2
-=======
-Added this new file. Amar 
->>>>>>> bafa029e003c408e23ab5553d4a75e61e1982746
+Added this new file. Amar Line1
